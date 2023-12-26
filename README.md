@@ -1,4 +1,4 @@
-Refer the Obsidian-notes directory for more information.
+Open the Obsidian-notes directory as an Obsidian vault for more information.
 
 # Some screenshots
 
